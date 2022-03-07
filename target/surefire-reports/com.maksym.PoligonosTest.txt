@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------------
+Test set: com.maksym.PoligonosTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 0.006 s <<< FAILURE! - in com.maksym.PoligonosTest
+testPoligono  Time elapsed: 0.001 s  <<< ERROR!
+java.util.NoSuchElementException
+	at com.maksym.PoligonosTest.testPoligono(PoligonosTest.java:57)
+
+testEcuacion1?grad  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: a string containing "La soluci?n es: 6"
+     but: was "0 para salir
+1 Aritm?tica b?sica
+2 ?rea pol?gonos regulares.
+3 Teorema de Pit?goras
+4 Ecuaciones 1? grado
+5 Ecuaciones 2? grado
+6 Ecuaciones superior al 2? grado
+Introduzca una opci?n: Introduzca el coeficiente grado 1: 
+Introduzca el termino independiente: 
+La soluci?n es: 6
+0 para salir
+1 Aritm?tica b?sica
+2 ?rea pol?gonos regulares.
+3 Teorema de Pit?goras
+4 Ecuaciones 1? grado
+5 Ecuaciones 2? grado
+6 Ecuaciones superior al 2? grado
+Introduzca una opci?n: "
+	at com.maksym.PoligonosTest.testEcuacion1?grad(PoligonosTest.java:47)
+
