@@ -4,7 +4,6 @@ import java.util.Scanner;
 import com.maksym.funciones.aritmeticaBasica;
 import com.maksym.funciones.FuncionEcuaciones;
 import com.maksym.funciones.FuncionPoligonoRegular;
-import com.maksym.funciones.FuncionRuffini;
 import com.maksym.funciones.FuncionTeoremaPitagoras;
 import com.maksym.funciones.FuncionLogaritmo;
 import com.maksym.funciones.FuncionFactorial;
@@ -134,7 +133,7 @@ public class App {
                         array.set(i, valor);
                     }
 
-                    System.out.println(FuncionRuffini.calcular(array));;
+                    System.out.println();
                     break;
                 case 7:
 
